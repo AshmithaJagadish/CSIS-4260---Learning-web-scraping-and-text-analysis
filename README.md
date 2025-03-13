@@ -73,7 +73,7 @@ This repository contains my submission for **CSIS 4260 Assignment 2**, focusing 
    pip install -r requirements.txt
    ```
 
-3️⃣ Run each notebook in **Google Colab** or **Jupyter Notebook**.  
+3️⃣ Run each notebook in **Jupyter Notebook**.  
 
 ---
 
@@ -85,7 +85,18 @@ This repository contains my submission for **CSIS 4260 Assignment 2**, focusing 
 
 ---
 
+## 👨‍💻 Contributors
+- **Ashmita Jagadish** – Data Processing & Model Implementation
+- **Ashmita Jagadish** – Dashboard Development
+
+📩 For questions, contact: `ashmithajagadish@gmail.com`
+
+---
+
+## 📜 License
+This project is for educational purposes under **CSIS 4260** and is not for commercial use.
+
+
 ## 🏆 Acknowledgments  
 Special thanks to **CSIS 4260 faculty** for providing an opportunity to explore **web scraping and NLP techniques** in-depth.  
 
-For any questions or improvements, feel free to raise an **issue** or **pull request**! 🚀  
