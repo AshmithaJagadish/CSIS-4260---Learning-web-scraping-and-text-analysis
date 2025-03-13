@@ -87,5 +87,3 @@ This repository contains my submission for **CSIS 4260 Assignment 2**, focusing 
 
 ## 🏆 Acknowledgments  
 Special thanks to **CSIS 4260 faculty** for providing an opportunity to explore **web scraping and NLP techniques** in-depth.  
-
-For any questions or improvements, feel free to raise an **issue** or **pull request**! 🚀  
